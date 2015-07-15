@@ -1,3 +1,7 @@
+# Don't Fork!
+
+Just clone directly from this page.
+
 ## Fortune Teller
 
 Our very first Rails app. Our goal will be to allow the user to take two actions:
