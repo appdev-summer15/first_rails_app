@@ -10,6 +10,8 @@ Our very first Rails app. Our goal will be to allow the user to take two actions
 
 When users go to `/lucky_numbers`, they should see their five lucky numbers for the day. These numbers will be randomly chosen.
 
+Similarly, `/unlucky_numbers`.
+
 ### Go to `/zodiacs/:sign`
 
 Add a list of nav links to `/zodiacs/leo`, `/zodiacs/cancer`, etc.
