@@ -1,0 +1,15 @@
+<h1>FriendBC</h1>
+
+<%= @parsed_result["data"].each do |post| %>
+
+    <% if post["type"] == "link" %>
+  <li>
+      <%= post["from"]["name"] %>:
+
+      <a href="<%= post["link"] %>">
+        <%= post["message"] %>
+      </a>
+  </li>
+    <% end %>
+
+<% end %>
