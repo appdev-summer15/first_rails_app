@@ -1,3 +1,7 @@
+require 'open-uri'
+
+# CAACEdEose0cBAKmNe19WNywDUcHDyvjQWpDdSBGoXf25Yil4mChGj5h3oxXgJE0iAzJVleM7t8aR0gaTxGADB50UYnaZCDUsMOkli7ThZAdyavZB5t7VLHWADWJPf8NWwcNZAYMaggf3Ca5AxAsvZBxRJUaEgNTcqGKTYvo0ouPoQimx6TWUYdcl3bpaI4GAUyCmlWwoEjBfhRGVa32m9kL6mU8sGuE4ZD
+
 class ZodiacsController < ApplicationController
   def ram
     @prediction = "As your professional dreams unfold, Aries, you may worry about the downside. First, there are new responsibilities that you might doubt your ability to fulfill. Second, you might be catapulted into an uncomfortable new realm of office politics. Don't let these matters put a damper on your enthusiasm. You have what it takes to fulfill the first concern and the wisdom to avoid the second. Onward and upward."
